@@ -1,0 +1,60 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px darkorchid;
+    color: darkmagenta;
+    background-color: deepskyblue;
+}
+
+.heading:hover {
+   
+    box-shadow: mediumblue;
+    background-color: mediumspringgreen;
+    color: orangered;
+}
+
+.heading_div {
+    float: none;
+    background-color: slateblue;
+    padding: 1px;
+    border-radius: 20px;
+    color: palevioletred;
+    box-shadow: 10px 0px 5px lawngreen;
+    box-shadow: 0px 10px 5px crimson;
+}
+
+.heading_div2 {
+    font-size: 18px;
+    color: dodgerblue;
+    background-color: gold;
+}
+
+.result_para_tag {
+    box-shadow: 5px 5px 5px magenta;
+    font-size: 20px;
+    font-family: monospace;
+    font-style: italic;
+    box-decoration-break: slice;
+}
+
+.copy_right_footer {
+    box-shadow: purple;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    font-family: sans-serif;
+    background-color: salmon;
+    color: slateblue;
+}
+
+canvas {
+    border: 5px solid violet;
+    border-radius: 20px;
+    box-shadow: 5px 5px fuchsia;
+    margin-top: 110px;
+}
